@@ -232,7 +232,7 @@ export interface CommonPathProps
     TouchableProps,
     DefinitionProps,
     CommonMarkerProps,
-    CommonMaskProps {},
+    CommonMaskProps,
     ReactNative.AccessibilityProps {}
 
 // Element props
